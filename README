@@ -1,0 +1,11 @@
+This project assumes you have installed Sagemath and ImageMagick.
+
+To run the programs, copy the contents of any file into a Sage browser.
+
+See:
+http://sagemath.org
+http://www.imagemagick.org
+
+Author:
+Andrew Musselman
+andrew.musselman@gmail.com
